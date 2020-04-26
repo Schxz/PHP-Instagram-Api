@@ -1,5 +1,7 @@
 It allows you to get Instagram user information and shares without the need for any addiction.
 
+![Example Screen](https://i.ibb.co/41whMnS/indir.png)
+
 Usage:
 ```php
 include "src/SchxzInstagram.php";
